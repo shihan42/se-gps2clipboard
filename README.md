@@ -1,2 +1,4 @@
-# se-gps2clipboard
-A plugin for Space Engineers that automatically copies newly created GPS coordinates to the system clipboard.
+# Gps2Clipboard
+
+**Gps2Clipboard** is a plugin for **Space Engineers**. It automatically copies the GPS string into the system's clipboard after using `/gps` in the chat.
+
