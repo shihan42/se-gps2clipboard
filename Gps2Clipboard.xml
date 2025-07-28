@@ -9,7 +9,7 @@
 It automatically copies the GPS string into the system's clipboard after using `/gps` in the chat.
     </Description>
 
-    <Commit>b2db9c28796f353116679ab7977bc59fc492f691</Commit>
+    <Commit>16fc8501280c39b462f375e2ef28f98785bf97dc</Commit>
 
     <SourceDirectories>
       <Directory>ClientPlugin</Directory>
