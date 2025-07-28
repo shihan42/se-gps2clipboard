@@ -509,6 +509,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Patch_MyGpsCollection.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
