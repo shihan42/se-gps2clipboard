@@ -4,7 +4,7 @@
     <FriendlyName>Gps2Clipboard</FriendlyName>
     <Author>shihan42</Author>
     <Tooltip>Automatically copies a newly created GPS coordinate to the clipboard</Tooltip>
-    <Description>Gps2Clipboard is a plugin for Space Engineers.
+    <Description>Gps2Clipboard is a client-side plugin for Space Engineers.
 
 It automatically copies the GPS string into the system's clipboard after using `/gps` in the chat.
     </Description>
